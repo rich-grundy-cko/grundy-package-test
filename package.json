@@ -38,5 +38,8 @@
   "files": [
     "lib/mpapi/something/**/*",
     "lib/eapi/somethingelse"
-  ]
+  ],
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
 }
