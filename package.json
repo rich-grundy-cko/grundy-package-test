@@ -1,6 +1,6 @@
 {
   "name": "grundy-package-test",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "A test package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
